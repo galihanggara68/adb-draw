@@ -1,0 +1,16 @@
+{
+  "name": "android-adb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nut-tree/nut-js": "^1.4.2",
+    "adbkit": "^2.11.1",
+    "bluebird": "^3.7.2"
+  }
+}
